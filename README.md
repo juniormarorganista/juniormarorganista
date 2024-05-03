@@ -1,7 +1,5 @@
 ### Olá! Meu nome é Juniormar Organista! 😁✨
 
-[![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
-
 ![Juniormar GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact)
@@ -32,6 +30,11 @@
 )](https://www.instagram.com/juniormarorganista/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/juniormar.organista)
+
+## Plataformas de cursos online
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/juniormar-organista/)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/5060d19f4e86757542e44f3f5717cb56)
+
 
 <!--
 **juniormarorganista/juniormarorganista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
