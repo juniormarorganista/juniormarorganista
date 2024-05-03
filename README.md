@@ -24,10 +24,15 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+</div>
 
-          
 ## Redes sociais
-
+<div style="display: inline_block"><br/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/juniormarorganista/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+)](https://www.facebook.com/juniormar.organista)
+</div>
 
 <!--
 **juniormarorganista/juniormarorganista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
