@@ -3,7 +3,6 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World!!!</h1></summary>
 </div>
-
 <!-- Presentation -->
 <p>
   Hi 👋! I'm Juniormar Organista! 😁✨ Mathematician by training and enthusiastic programmer.
@@ -25,7 +24,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [C := Building...](https://github.com/juniormarorganista/Codes)
+- [C := Building...](https://github.com/juniormarorganista/Codes/C/Calculator)
 - [C++ := Building...](https://github.com/juniormarorganista/Codes)
 - [Python := Building...](https://github.com/juniormarorganista/Codes)
 - [Fortran := Building...](https://github.com/juniormarorganista/Codes)
