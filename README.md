@@ -6,21 +6,18 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋! I'm Juniormar Organista! 😁✨
+  Hi 👋! I'm Juniormar Organista! 😁✨ Mathematician by training and enthusiastic programmer.
 </p>
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
-  - 💬 
-  - ⚡ 
-</details>
-<!-- Links -->
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniormar-organista-1762802a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/juniormarorganista/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+  
+  - 💬 I have a bachelor's degree in Mathematics from the State University of Maringá, a master's degree in Applied and Computational Mathematics from the State University of Londrina, and a doctorate in Applied and Computational Mathematics from the University of São Paulo.
+  
+  - ⚡ Social media: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/juniormarorganista/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/juniormar.organista)
+</details>
 
 ![Juniormar GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=dracula)
 
@@ -73,3 +70,8 @@
 ## Online courses
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/juniormar-organista/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/5060d19f4e86757542e44f3f5717cb56)
+
+## Contact
+<!-- Links -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniormar-organista-1762802a/)
+
