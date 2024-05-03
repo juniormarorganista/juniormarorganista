@@ -27,12 +27,10 @@
 </div>
 
 ## Redes sociais
-<div style="display: inline_block"><br/>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/juniormarorganista/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/juniormar.organista)
-</div>
 
 <!--
 **juniormarorganista/juniormarorganista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
