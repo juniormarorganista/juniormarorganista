@@ -20,7 +20,8 @@
 
 ![Juniormar GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=donut)](https://github.com/juniormarorganista/github-readme-stats)
+
 
 <!-- Portfolio -->
 ## Portfolio:
