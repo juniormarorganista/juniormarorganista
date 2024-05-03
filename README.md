@@ -1,12 +1,15 @@
-### Olá! Meu nome é Juniormar Organista! 😁✨
+### Hi! My name is Juniormar Organista! 😁✨
 
 ![Juniormar GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact)
 
-## Tecnologias que uso
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
 
-<div style="display: inline_block"><br/>
+## Programming Languages
+<div style="flex-basis: 48%;">
+  <h3>Programming Languages</h3>
   <img align="center" alt="Fortran" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
