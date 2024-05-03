@@ -1,6 +1,8 @@
-### Olá! Meu nome é Juniormar Organista! 😁
+### Olá! Meu nome é Juniormar Organista! 😁✨
+
 [![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
 
+![Juniormar GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=dracula)
 
 <!--
 **juniormarorganista/juniormarorganista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
