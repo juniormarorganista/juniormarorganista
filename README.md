@@ -15,7 +15,7 @@
   <img align="center" alt="Fortran" src="" />
   <img align="center" alt="Octave" src="" />
   <img align="center" alt="Mathematica" src="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />        
+  <img align="center" alt="MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>        
 </div>
 
 
