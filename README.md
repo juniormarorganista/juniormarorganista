@@ -11,11 +11,12 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-  - 💬 I have a bachelor's degree in Mathematics from the State University of Maringá, a master's degree in Applied and Computational Mathematics from the State University of Londrina, and a doctorate in Applied and Computational Mathematics from the University of São Paulo.
+  - 💬 I hold a Bachelor's degree in Mathematics from the State University of Maringá (UEM), a Master's degree in Applied and Computational Mathematics from the State University of Londrina (UEL), and a **Ph.D. in Applied and Computational Mathematics from the University of São Paulo (USP)**. My academic background provides me with a robust foundation in logic, algorithms, and complex problem-solving.
   
-  - ⚡ Social media: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/juniormarorganista/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/juniormar.organista)
+  - 🌐 Connect with me:
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniormarorganista/)
+    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juniormar.organista)
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniormarorganista@alumni.usp.br)
 </details>
 
 ![Juniormar GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=dracula)
