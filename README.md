@@ -20,12 +20,11 @@
 </details>
 
 ![Juniormar GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=donut)](https://github.com/juniormarorganista/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
-- [C := Building...](https://github.com/juniormarorganista/Codes/C/Calculator)
+- [C := Building...](https://github.com/juniormarorganista/Codes)
 - [C++ := Building...](https://github.com/juniormarorganista/Codes)
 - [Python := Building...](https://github.com/juniormarorganista/Codes)
 - [Fortran := Building...](https://github.com/juniormarorganista/Codes)
@@ -75,7 +74,7 @@
 <!-- Links -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniormar-organista-1762802a/)
 
-# Pacman
+# Commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juniormarorganista/juniormarorganista/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juniormarorganista/juniormarorganista/output/pacman-contribution-graph.svg">
