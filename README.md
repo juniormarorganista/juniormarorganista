@@ -11,7 +11,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-  - 💬 I hold a Bachelor's degree in Mathematics from the State University of Maringá (UEM), a Master's degree in Applied and Computational Mathematics from the State University of Londrina (UEL), and a **Ph.D. in Applied and Computational Mathematics from the University of São Paulo (USP)**. My academic background provides me with a robust foundation in logic, algorithms, and complex problem-solving.
+  - 💬 I hold a **Bachelor's degree in Mathematics from the State University of Maringá (UEM)**, a **Master's degree in Applied and Computational Mathematics from the State University of Londrina (UEL)**, and a **Ph.D. in Applied and Computational Mathematics from the University of São Paulo (USP)**. My academic background provides me with a robust foundation in logic, algorithms, and complex problem-solving.
   
   - 🌐 Social medias:
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniormarorganista/)
