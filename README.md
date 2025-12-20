@@ -25,12 +25,13 @@
 ## Portfolio:
 - [C := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/C/)
 - [C++ := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/CPP/)
-- [Python := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/Python/)
 - [Fortran := Building...](https://github.com/juniormarorganista/Codes/tree/main/Fortran/)
-- [MatLab/Octave := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/Matlab_Octave/)
 - [Mathematica := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/Mathematica/)
-- [SQL := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/SQL/)
+- [MatLab/Octave := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/Matlab_Octave/)
 - [PowerBi := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/PowerBi/)
+- [Python := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/Python/)
+- [R := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/R/)
+- [SQL := Building...](https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/SQL/)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
