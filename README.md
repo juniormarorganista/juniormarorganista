@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=juniormarorganista&theme=redical"/>
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=juniormarorganista&theme=redical"/>
 </div>
 
 ---
