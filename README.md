@@ -34,8 +34,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juniormarorganista&theme=radical&hide_border=false"/>
 </div>
+
 ---
 
 ## 🔧 Tech Stack
