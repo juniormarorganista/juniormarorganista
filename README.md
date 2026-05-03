@@ -36,7 +36,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&langs_count=8&theme=radical" />
 </div>
-
 ---
 
 ## 🔧 Tech Stack
