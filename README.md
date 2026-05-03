@@ -31,11 +31,24 @@
 
 ---
 
+## 🚀 Currently
+
+- 🔭 Working on: scientific computing & numerical methods projects  
+- 🌱 Learning: deep learning applied to physical simulations  
+- 👯 Open to collaborate on: applied mathematics, CFD, and data science  
+- 💬 Ask me about: numerical analysis, V&V, Python for science, Fortran
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&langs_count=8&theme=radical"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juniormarorganista&theme=radical&hide_border=false"/>
+</div>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=juniormarorganista&theme=redical"/>
 </div>
 
 ---
