@@ -114,9 +114,6 @@
 Applied Mathematics + Programming + Scientific Rigor + Real‑World Problems
 ````
 
-![Juniormar's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormarorganista&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&theme=radical)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juniormarorganista/juniormarorganista/output/github-snake-dark.svg" />
