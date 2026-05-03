@@ -112,7 +112,7 @@
 
 ```text
 Applied Mathematics + Programming + Scientific Rigor + Real‑World Problems
-
+````
 
 <div align="center">
   <picture>
