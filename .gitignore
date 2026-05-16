@@ -1,0 +1,11 @@
+# AI local tools
+.claude/
+.codex/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
