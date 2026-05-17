@@ -101,7 +101,6 @@
 ## 📁 Featured Repositories
 
 ### 🧪 Programming & Language Studies
-<div align="center">
 <p>
   <a href="https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/C/"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /></a>
   <a href="https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/CPP/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
@@ -113,7 +112,6 @@
   <a href="https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/SQL/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
   <a href="https://github.com/juniormarorganista/Programming_Language_Course_Codes/tree/main/PowerBi/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /></a>
 </p>
-</div>
 
 ### 🔭 Main Interests on GitHub
 - Scientific computing & numerical methods
