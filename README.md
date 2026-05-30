@@ -21,9 +21,9 @@
 
 ## 🧠 About Me
 
-- 🎓 Ph.D. in **Computer Science and Computational Mathematics** – ICMC/USP  
-- 📈 M.Sc. in **Applied and Computational Mathematics** – UEL  
-- 📐 B.Sc. in **Mathematics** – UEM  
+- 🎓 Ph.D. in **Computer Science and Computational Mathematics** - ICMC/USP  
+- 📈 M.Sc. in **Applied and Computational Mathematics** - UEL  
+- 📐 B.Sc. in **Mathematics** - UEM  
 - 🏫 Teaching experience at **IFG**, **UFSCar**, and **UNIVESP**  
 - 🔬 Industry R&D projects with **FIPAI / Petrobras**  
 - ⚙️ Core expertise: **Verification & Validation (V&V)**, **Numerical Reliability**, **CFD**, **Data Analysis**, **Machine Learning**  
