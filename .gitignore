@@ -13,3 +13,20 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
+
+# ---------------------------------------------------
+# Configurações e Logs de Inteligência Artificial
+# ---------------------------------------------------
+.claudesignignore
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.codex/
+.cursorignore
+.cursor/
+.cursorrules
+Cursor.md
+.cline/
+.cline_history/
+AGENTS.md
+PROMPTS.md
