@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&langs_count=8&theme=radical" />
-  <img height="120" src="https://streak-stats.demolab.com/?user=juniormarorganista&theme=radical&hide_border=false" />
+  <img height="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&langs_count=8&theme=radical" />
+  <img height="130" src="https://streak-stats.demolab.com/?user=juniormarorganista&theme=radical&hide_border=false" />
 </div>
 
 <div align="center">
