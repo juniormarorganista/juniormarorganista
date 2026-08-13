@@ -42,10 +42,27 @@
 
 ## 📊 GitHub Stats
 
+<!-- Entre os dois marcadores abaixo escreve o gerador em C:\dev\gitstats-tool. Não
+     edite ali à mão: a próxima execução sobrescreve. Fora dos marcadores nada é
+     tocado. Procedimento: C:\dev\gitstats-tool\ATUALIZAR.md -->
+<!-- gitstats:start -->
 <div align="center">
-  <img height="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormarorganista&layout=compact&langs_count=8&theme=radical" />
-  <img height="130" src="https://streak-stats.demolab.com/?user=juniormarorganista&theme=radical&hide_border=false" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
+  <img alt="juniormarorganista activity" src="cards/stats-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
+  <img alt="Languages by share of code" src="cards/languages-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/achievements-dark.svg">
+  <img alt="Achievement progress" src="cards/achievements-light.svg">
+</picture>
 </div>
+
+<sub>Gerado localmente a partir do histórico git e da API do GitHub. Repositórios privados entram na contagem e nunca no nome: esta página traz apenas totais.</sub>
+<!-- gitstats:end -->
 
 <div align="center">
   <img height="223" src="https://github-readme-activity-graph.vercel.app/graph?username=juniormarorganista&theme=redical"/>
