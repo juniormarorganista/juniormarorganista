@@ -60,8 +60,6 @@
   <img alt="Achievement progress" src="cards/achievements-light.svg">
 </picture>
 </div>
-
-<sub>Gerado localmente a partir do histórico git e da API do GitHub. Repositórios privados entram na contagem e nunca no nome: esta página traz apenas totais.</sub>
 <!-- gitstats:end -->
 
 <div align="center">
