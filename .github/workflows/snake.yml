@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # todo dia à meia-noite
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write          # ← ESSENCIAL para publicar no branch output
+  contents: write
 
 jobs:
   build:
