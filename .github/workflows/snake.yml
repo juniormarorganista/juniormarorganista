@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,9 +23,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-          # Se quiser cores personalizadas, use:
-          # color_snake: "#FF5733"
-          # color_dots: "#ebedf0,#9be9a8,#40c463,#30a14e,#216e39"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
