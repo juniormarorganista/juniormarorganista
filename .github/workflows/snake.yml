@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # todo dia à meia-noite
   workflow_dispatch:      # permite rodar manualmente
 
+permissions:
+  contents: write          # ← ESSENCIAL para publicar no branch output
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,9 +23,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-          args: >
-            --color-snake "#FF5733"
-            --color-dots "#ebedf0,#9be9a8,#40c463,#30a14e,#216e39"
+          color_snake: "#FF5733"
+          color_dots: "#ebedf0,#9be9a8,#40c463,#30a14e,#216e39"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
