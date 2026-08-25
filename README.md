@@ -117,15 +117,15 @@
 
 ### 🧪 Programming & Language Studies
 <p>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/C/"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/CPP/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Codes/tree/main/Fortran/"><img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/Mathematica/"><img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/Matlab_Octave/"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/Python/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/R/"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/SQL/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
-  <a href="https://github.com/juniormarorganista/Programming-Study-Tracks/tree/main/PowerBi/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ### 🔭 Main Interests on GitHub
