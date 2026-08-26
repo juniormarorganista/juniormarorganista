@@ -53,7 +53,7 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cards/activity-dark.svg">
-  <img alt="Commits per month" src="cards/activity-light.svg">
+  <img alt="Commits per day" src="cards/activity-light.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
