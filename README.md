@@ -52,6 +52,10 @@
   <img alt="juniormarorganista activity" src="cards/stats-light.svg">
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/activity-dark.svg">
+  <img alt="Commits per month" src="cards/activity-light.svg">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
   <img alt="Languages by share of code" src="cards/languages-light.svg">
 </picture>
@@ -61,10 +65,6 @@
 </picture>
 </div>
 <!-- gitstats:end -->
-
-<div align="center">
-  <img height="223" src="https://github-readme-activity-graph.vercel.app/graph?username=juniormarorganista&theme=redical"/>
-</div>
 
 ---
 
