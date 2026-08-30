@@ -1,32 +1,30 @@
-# Claude Code
-CLAUDE.md
-CLAUDE.local.md
+# .gitignore — organizado por categoria
+# Padroes preexistentes foram preservados; excecoes (!) ficam no fim,
+# onde o gitignore garante que prevalecem.
 
-# AI local tools
+# Ferramentas de IA — nunca versionar
 .claude/
-.codex/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDEs
-.vscode/
-.idea/
-
-# ---------------------------------------------------
-# Configurações e Logs de Inteligência Artificial
-# ---------------------------------------------------
 .claudesignignore
-CLAUDE.md
-CLAUDE.local.md
-.claude/
-.codex/
-.cursorignore
-.cursor/
-.cursorrules
-Cursor.md
 .cline/
 .cline_history/
+.codex/
+.cursor/
+.cursorignore
+.cursorrules
+.worktrees/
 AGENTS.md
+CLAUDE.local.md
+CLAUDE.md
+Cursor.md
+GEMINI.md
 PROMPTS.md
+
+# Bancos de dados locais
+Thumbs.db
+
+# IDEs e editores
+.idea/
+.vscode/
+
+# Sistema operacional
+.DS_Store
