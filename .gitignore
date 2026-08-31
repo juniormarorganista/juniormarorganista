@@ -1,24 +1,3 @@
-# .gitignore — organizado por categoria
-# Padroes preexistentes foram preservados; excecoes (!) ficam no fim,
-# onde o gitignore garante que prevalecem.
-
-# Ferramentas de IA — nunca versionar
-.claude/
-.claudesignignore
-.cline/
-.cline_history/
-.codex/
-.cursor/
-.cursorignore
-.cursorrules
-.worktrees/
-AGENTS.md
-CLAUDE.local.md
-CLAUDE.md
-Cursor.md
-GEMINI.md
-PROMPTS.md
-
 # Bancos de dados locais
 Thumbs.db
 
