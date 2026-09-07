@@ -46,7 +46,6 @@
      edite ali à mão: a próxima execução sobrescreve. Fora dos marcadores nada é
      tocado. Procedimento: C:\dev\gitstats-tool\ATUALIZAR.md -->
 <!-- gitstats:start -->
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
