@@ -39,7 +39,9 @@
 
 ---
 
+
 ## 📊 GitHub Stats
+
 
 <!-- Entre os dois marcadores abaixo escreve o gerador em C:\dev\gitstats-tool. Não
      edite ali à mão: a próxima execução sobrescreve. Fora dos marcadores nada é
