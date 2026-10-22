@@ -25,7 +25,7 @@
 - 📐 B.Sc. in **Mathematics** - UEM  
 - 🏫 Teaching experience at **IFG**, **UFSCar**, and **UNIVESP**  
 - 🔬 Industry R&D projects with **FIPAI / Petrobras**  
-- 💼 Today: **credit risk** at a cooperative financial institution — scoring and rating models in production, from development through validation to monitoring  
+- 💼 **Credit risk** at a cooperative financial institution - scoring and rating models in production, from development through validation to monitoring  
 - ⚙️ Core expertise: **Verification & Validation (V&V)**, **Numerical Reliability**, **CFD**, **Data Analysis**, **Machine Learning**  
 - 💡 I turn mathematical rigor into reliable, efficient computational tools.
 
