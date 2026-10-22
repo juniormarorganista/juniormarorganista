@@ -33,6 +33,9 @@
 
 ## 🚀 Currently
 
+- 💼 Day job: credit risk modelling at a cooperative financial institution — scoring and rating models, validation and monitoring  
+- 📏 Working with: KS, Gini, PSI, AUC-ROC and WoE/IV, and the data pipelines that feed them  
+- 🧰 Production stack: Python, SQL, R, Databricks  
 - 🔭 Working on: scientific computing & numerical methods projects  
 - 🌱 Learning: deep learning applied to physical simulations  
 - 👯 Open to collaborate on: applied mathematics, CFD, and data science  
