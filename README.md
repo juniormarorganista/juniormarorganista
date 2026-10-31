@@ -47,9 +47,9 @@
 ## 📊 GitHub Stats
 
 
-<!-- Entre os dois marcadores abaixo escreve o gerador em C:\dev\gitstats-tool. Não
+<!-- Entre os dois marcadores abaixo escreve o gerador em D:\Juniormar_Projetos_Github\gitstats-tool. Não
      edite ali à mão: a próxima execução sobrescreve. Fora dos marcadores nada é
-     tocado. Procedimento: C:\dev\gitstats-tool\ATUALIZAR.md -->
+     tocado. Procedimento: D:\Juniormar_Projetos_Github\gitstats-tool\ATUALIZAR.md -->
 <!-- gitstats:start -->
 <div align="center">
 <picture>
