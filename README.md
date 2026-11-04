@@ -56,10 +56,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
   <img alt="juniormarorganista activity" src="cards/stats-light.svg">
 </picture>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cards/activity-dark.svg">
   <img alt="Commits per day" src="cards/activity-light.svg">
-</picture>
+</picture> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
   <img alt="Languages by share of code" src="cards/languages-light.svg">
