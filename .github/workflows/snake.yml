@@ -1,12 +1,27 @@
 name: Generate Snake Animation
 
 on:
-  workflow_dispatch:      # permite rodar manualmente
+  workflow_dispatch:          # permite rodar manualmente
+
+  push:
+    branches: [main]          # regenera sempre que o perfil muda
+
   schedule:
-    - cron: "0 0 * * *"   # todo dia a meia-noite UTC
+    # Dois horarios por dia, em minuto quebrado e longe da virada da hora.
+    # A fila do GitHub Actions atrasa -- e as vezes descarta -- agendamentos
+    # nos horarios cheios, e "0 0 * * *" e o slot mais disputado de todos.
+    # Com duas janelas por dia, uma descartada nao deixa o SVG parado.
+    - cron: "37 5 * * *"      # 02:37 BRT
+    - cron: "37 17 * * *"     # 14:37 BRT
 
 permissions:
   contents: write
+
+# Uma execucao por vez: se um push coincidir com o agendamento, a mais
+# recente vence em vez de as duas disputarem a branch output.
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
 
 jobs:
   build:
